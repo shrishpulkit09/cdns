@@ -1,4 +1,5 @@
-(function ($) {
+//<![CDATA[
+	(function ($) {
     "use strict";
     jQuery(document).ready(function () {
         /*-------------------------NAVBAR---------------------------- */
